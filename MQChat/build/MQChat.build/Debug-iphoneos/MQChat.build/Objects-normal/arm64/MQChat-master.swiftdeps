@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "17a62e3294a8c7757e593723c30bd47d"
+build_time: [1528283456, 42062000]
+inputs:
+  "/Users/ibm-mobility/Desktop/DurgaPrasad/4Apr110pm/Mobile_iQuest/MQChat/MQChat/UIKitExtension/UIViewExtension.swift": [1521454795, 0]
+  "/Users/ibm-mobility/Desktop/DurgaPrasad/4Apr110pm/Mobile_iQuest/MQChat/MQChat/MQQuestionListCell.swift": [1524467728, 0]
+  "/Users/ibm-mobility/Desktop/DurgaPrasad/4Apr110pm/Mobile_iQuest/MQChat/MQChat/MQChatCollectionView.swift": [1524207065, 0]
+  "/Users/ibm-mobility/Desktop/DurgaPrasad/4Apr110pm/Mobile_iQuest/MQChat/MQChat/MQChatCell.swift": [1524205327, 0]

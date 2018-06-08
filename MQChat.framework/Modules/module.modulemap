@@ -1,0 +1,11 @@
+framework module MQChat {
+  umbrella header "MQChat.h"
+
+  export *
+  module * { export * }
+}
+
+module MQChat.Swift {
+    header "MQChat-Swift.h"
+    requires objc
+}

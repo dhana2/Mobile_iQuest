@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/ibm-mobility/Library/Developer/Xcode/DerivedData/MQChat-cabzdvanshmvteegpyzpkeipjwoy/Build/Products/Debug-iphonesimulator/MQChat.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/ibm-mobility/Desktop/DurgaPrasad/4Apr110pm/Mobile_iQuest/MQChat/build/MQChat.build/Debug-iphonesimulator/MQChat.build/unextended-module.modulemap',
+    }]
+  }]
+}
